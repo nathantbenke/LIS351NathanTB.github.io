@@ -1,0 +1,20 @@
+h1 {
+ font-family: impact, verdana, sans-serif; 
+ font-size: 50px;
+}
+
+h2 {
+ font-family: "Georgia", "Times New Roman", Times, serif;
+ text-decoration: underline;
+}
+
+
+body {
+   background-color: rgb(183, 221, 244);
+   margin: 20px 120px 50px 120px;
+}
+
+p {
+   font-family: verdana, helvetica, sans-serif;
+   color: black;
+}
